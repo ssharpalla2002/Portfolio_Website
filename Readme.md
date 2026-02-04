@@ -2,7 +2,6 @@
 
 A personal portfolio website built with React.js and Vite to showcase my profile. It features a clean design, smooth animations that highlight my projects, and a functional contact form for easy connection.
 
----
 
 ---
 
