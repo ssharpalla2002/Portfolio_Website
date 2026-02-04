@@ -8,7 +8,7 @@ A personal portfolio website built with React.js and Vite to showcase my profile
 ## Project Images
 
 <div align="center">
-  <h3>Home Page</h3>
+  <h3>Home Pages</h3>
   <img src="/images/portfolio1.png" alt="Home Page" style="max-width: 100%; height: auto;" />
 </div>
 
