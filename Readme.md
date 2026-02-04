@@ -6,20 +6,24 @@ A personal portfolio website built with React.js and Vite to showcase my profile
 
 ## Project Images
 
-<center>
+<div style="text-align: center;">
   <h3>Home Page</h3>
-  <img src="/images/portfolio1.png" alt="Home Page">
-</center>
+  <img src="/images/portfolio1.png" alt="Home Page" style="display: block; margin: 0 auto;">
+</div>
 
-<center>
+<hr>
+
+<div style="text-align: center;">
   <h3>Service Page</h3>
-  <img src="/images/portfolio2.png" alt="Service Page">
-</center>
+  <img src="/images/portfolio2.png" alt="Service Page" style="display: block; margin: 0 auto;">
+</div>
 
-<center>
+<hr>
+
+<div style="text-align: center;">
   <h3>Contact Page</h3>
-  <img src="/images/portfolio3.png" alt="Contact Page">
-</center>
+  <img src="/images/portfolio3.png" alt="Contact Page" style="display: block; margin: 0 auto;">
+</div>
 
 ---
 
